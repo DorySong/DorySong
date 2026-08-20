@@ -45,15 +45,6 @@ Software Engineering student at **McGill University** (B.Eng. Co-op, GPA 3.85/4.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Dory's GitHub stats](https://github-readme-stats.vercel.app/api?username=DorySong&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DorySong&layout=compact)
-
----
-
 ## 🚀 Projects I'm Proud Of
 
 ### 🌊 Brave The Waves — Charity Fundraising Platform
