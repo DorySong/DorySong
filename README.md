@@ -1,6 +1,6 @@
 # Hi, I'm Dory Song 👋
 
-Software Engineering student at **McGill University** (B.Eng. Co-op, GPA 3.85/4.0, graduating May 2028), based in Montreal. I've completed two internships at **CM-Labs** working on full-stack development and AI-driven training tools, and I currently lead development of a charity fundraising platform serving 350+ participants.
+Software Engineering student at **McGill University** (B.Eng. Co-op, GPA 3.85/4.0, graduating May 2028), based in Montreal. I've completed two internships at **CM-Labs** working on full-stack development and AI-driven training tools, and I currently lead development of a charity fundraising platform serving 350+ participants. For fall 2026, I'm excited to announce that I'll be joining Intact as a software developer intern!
 
 - 🔭 **Building:** [Brave The Waves](https://github.com/Brave-the-Waves) — a donation platform cutting platform fees by 60%
 - 🤖 **Interested in:** applied AI/ML, full-stack web, and cloud infrastructure
