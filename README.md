@@ -47,6 +47,9 @@ Software Engineering student at **McGill University** (B.Eng. Co-op, GPA 3.85/4.
 
 ## 🚀 Projects I'm Proud Of
 
+### 🤫 Miluo - Coming Soon 
+Leading the the development of a startup mobile app and web app. Thriving with this: Make your customers your obsession 😈
+
 ### 🌊 Brave The Waves — Charity Fundraising Platform
 [Frontend](https://github.com/Brave-the-Waves/btw-frontend) · [Backend](https://github.com/Brave-the-Waves/btw-backend)
 
